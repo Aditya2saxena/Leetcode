@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2saxena/Leetcode/tree/master/0011-container-with-most-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2saxena/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya2saxena/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
