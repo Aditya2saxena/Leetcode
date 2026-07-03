@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya2saxena/Leetcode/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/Aditya2saxena/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0136-single-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aditya2saxena/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aditya2saxena/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aditya2saxena/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
