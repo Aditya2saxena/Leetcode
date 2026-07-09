@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Aditya2saxena/Leetcode/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
