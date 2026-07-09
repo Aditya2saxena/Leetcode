@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aditya2saxena/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0136-single-number) |
+| [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aditya2saxena/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya2saxena/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
