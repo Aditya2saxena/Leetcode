@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aditya2saxena/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya2saxena/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Aditya2saxena/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Aditya2saxena/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aditya2saxena/Leetcode/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
