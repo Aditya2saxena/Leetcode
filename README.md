@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aditya2saxena/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya2saxena/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aditya2saxena/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Aditya2saxena/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
