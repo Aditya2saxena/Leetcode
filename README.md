@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya2saxena/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya2saxena/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aditya2saxena/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Aditya2saxena/Leetcode/tree/master/0039-combination-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya2saxena/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
