@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aditya2saxena/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Aditya2saxena/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Aditya2saxena/Leetcode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Aditya2saxena/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya2saxena/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aditya2saxena/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
