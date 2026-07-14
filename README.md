@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Aditya2saxena/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya2saxena/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya2saxena/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
