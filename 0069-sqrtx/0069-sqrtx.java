@@ -10,7 +10,7 @@ class Solution {
                 ans = i;
                 i++;
             } else {
-                break;
+                return i-1;
             }
         }
 
