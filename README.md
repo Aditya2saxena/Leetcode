@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aditya2saxena/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aditya2saxena/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aditya2saxena/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
 | ------- |
