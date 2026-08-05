@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aditya2saxena/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya2saxena/Leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Aditya2saxena/Leetcode/tree/master/0542-01-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
