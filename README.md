@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Aditya2saxena/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Aditya2saxena/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2540-minimum-common-value](https://github.com/Aditya2saxena/Leetcode/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aditya2saxena/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya2saxena/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Aditya2saxena/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Aditya2saxena/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/Aditya2saxena/Leetcode/tree/master/2540-minimum-common-value) |
 ## Greedy
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Aditya2saxena/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya2saxena/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
