@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Aditya2saxena/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1470-shuffle-the-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Aditya2saxena/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2540-minimum-common-value](https://github.com/Aditya2saxena/Leetcode/tree/master/2540-minimum-common-value) |
