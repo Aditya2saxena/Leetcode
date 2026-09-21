@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Aditya2saxena/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya2saxena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya2saxena/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2540-minimum-common-value](https://github.com/Aditya2saxena/Leetcode/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Aditya2saxena/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya2saxena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aditya2saxena/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
