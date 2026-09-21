@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aditya2saxena/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya2saxena/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
