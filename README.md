@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Aditya2saxena/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya2saxena/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya2saxena/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aditya2saxena/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aditya2saxena/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya2saxena/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya2saxena/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya2saxena/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya2saxena/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
