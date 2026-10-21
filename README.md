@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aditya2saxena/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aditya2saxena/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya2saxena/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aditya2saxena/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aditya2saxena/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aditya2saxena/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aditya2saxena/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0509-fibonacci-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aditya2saxena/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Aditya2saxena/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya2saxena/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya2saxena/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aditya2saxena/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya2saxena/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya2saxena/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya2saxena/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya2saxena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya2saxena/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Aditya2saxena/Leetcode/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
