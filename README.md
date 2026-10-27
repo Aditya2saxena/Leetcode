@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aditya2saxena/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aditya2saxena/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Aditya2saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Aditya2saxena/Leetcode/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Aditya2saxena/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya2saxena/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aditya2saxena/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aditya2saxena/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aditya2saxena/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Aditya2saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Aditya2saxena/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aditya2saxena/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Aditya2saxena/Leetcode/tree/master/0709-to-lower-case) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Aditya2saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Aditya2saxena/Leetcode/tree/master/1920-build-array-from-permutation) |
