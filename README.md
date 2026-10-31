@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aditya2saxena/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya2saxena/Leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Aditya2saxena/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Aditya2saxena/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya2saxena/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Aditya2saxena/Leetcode/tree/master/0090-subsets-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya2saxena/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Aditya2saxena/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Aditya2saxena/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditya2saxena/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya2saxena/Leetcode/tree/master/0054-spiral-matrix) |
 | [0542-01-matrix](https://github.com/Aditya2saxena/Leetcode/tree/master/0542-01-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Aditya2saxena/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Segment Tree
